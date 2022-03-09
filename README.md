@@ -8,7 +8,7 @@ Network: (SEP20token) smartBCH
 
 Decimals: 8
 
-Contract Address: 0x3a1f077Fc032ba40570438Ef919Bcf771dD46c27
+Contract Address: 0x387122d80A642581E5AD620696a37b98BB9272e7
 
 Maximum Supply: 90,000,000 (90 million)
 
